@@ -28,19 +28,19 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 Hi, I'm **Vikrant**, a B.Tech student at **Manipal University Jaipur** (Class of 2026). 
 
 I enjoy solving end‑to‑end problems: architecting resilient backends, crafting performant UIs, and shipping ML features that create measurable impact. Recently, I've engineered real‑time MERN systems, production ML pipelines, and cloud‑native developer tools serving thousands of requests per minute.
 
-* 🔭 **Current Focus:** Online Judge Infrastructure & AI Agents.
-* 💼 **Experience:** Interned at **AlgoUniversity** (YC S21) and **Celebal Technologies**.
-* 🌱 **Learning:** Advanced Kubernetes patterns & Generative AI flows.
+*  **Current Focus:** Online Judge Infrastructure & AI Agents.
+*  **Experience:** Interned at **AlgoUniversity** (YC S21) and **Celebal Technologies**.
+*  **Learning:** Advanced Kubernetes patterns & Generative AI flows.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | **Category** | **Technologies** |
 |:---:|:---|
@@ -52,7 +52,7 @@ I enjoy solving end‑to‑end problems: architecting resilient backends, crafti
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ I enjoy solving end‑to‑end problems: architecting resilient backends, crafti
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark5234&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00cba9&fire=00cba9&currStreakNum=white&sideNums=white&currStreakLabel=00cba9&sideLabels=00cba9" alt="Streak Stats" />
@@ -74,7 +74,7 @@ I enjoy solving end‑to‑end problems: architecting resilient backends, crafti
 </div>
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
+  <h3> Achievements</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=ark5234&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </div>
 
